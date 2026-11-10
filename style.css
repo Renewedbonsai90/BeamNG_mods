@@ -4,7 +4,7 @@ img {
 body {
   text-align: center;
   font-family: 'Arial';
-  background: black;
+  background: black !important;
   color: rgb(111, 219, 233);
 }
 body

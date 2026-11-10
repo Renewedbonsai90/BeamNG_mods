@@ -1,13 +1,13 @@
 img {
   width: 500px;
 }
-body {
+.Kiko {
   text-align: center;
   font-family: 'Arial';
   background: black !important;
   color: rgb(111, 219, 233);
 }
-body
+.Kiko
 {
   color : rgb(186, 227, 233);
   text-shadow: 0px 0px 10px cyan,

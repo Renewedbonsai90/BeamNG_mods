@@ -6,8 +6,14 @@ img {
   font-family: 'Arial';
   color: rgb(111, 219, 233);
 }
-.Kiko
-{
+.Kiko {
+  color : rgb(186, 227, 233);
+  text-shadow: 0px 0px 10px cyan,
+               0px 0px 20px cyan,
+               0px 0px 40px cyan,
+               0px 0px 80px cyan;
+}
+hr {
   color : rgb(186, 227, 233);
   text-shadow: 0px 0px 10px cyan,
                0px 0px 20px cyan,
